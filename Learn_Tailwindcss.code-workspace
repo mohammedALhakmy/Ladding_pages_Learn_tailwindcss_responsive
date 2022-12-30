@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Learn_Tailwindcss",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "D:\\tailwind-landing-page-main\\tailwind-landing-page-main\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learn_Tailwindcss"
+	}
+}
